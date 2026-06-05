@@ -10,4 +10,3 @@ public class AsmFutureInteriorProjectG2Application {
 		SpringApplication.run(AsmFutureInteriorProjectG2Application.class, args);
 	}
 }
-
